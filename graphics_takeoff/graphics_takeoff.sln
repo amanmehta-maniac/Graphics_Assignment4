@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A41952D6-A8A0-047D-DD18-106352A3E8EB}") = "graphics_takeoff", "Assembly-CSharp-firstpass.csproj", "{1FF96E3C-FD75-E9DA-369C-EE4B04372DEA}"
+EndProject
+Project("{A41952D6-A8A0-047D-DD18-106352A3E8EB}") = "graphics_takeoff", "Assembly-CSharp.csproj", "{9F148A74-3291-B752-ECAA-B52292FAAA28}"
+EndProject
+Project("{A41952D6-A8A0-047D-DD18-106352A3E8EB}") = "graphics_takeoff", "Assembly-CSharp-Editor.csproj", "{8A20EE4A-CE5F-D937-2A2E-2C39EB4658DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FF96E3C-FD75-E9DA-369C-EE4B04372DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF96E3C-FD75-E9DA-369C-EE4B04372DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF96E3C-FD75-E9DA-369C-EE4B04372DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF96E3C-FD75-E9DA-369C-EE4B04372DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F148A74-3291-B752-ECAA-B52292FAAA28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F148A74-3291-B752-ECAA-B52292FAAA28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F148A74-3291-B752-ECAA-B52292FAAA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F148A74-3291-B752-ECAA-B52292FAAA28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A20EE4A-CE5F-D937-2A2E-2C39EB4658DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A20EE4A-CE5F-D937-2A2E-2C39EB4658DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A20EE4A-CE5F-D937-2A2E-2C39EB4658DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A20EE4A-CE5F-D937-2A2E-2C39EB4658DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

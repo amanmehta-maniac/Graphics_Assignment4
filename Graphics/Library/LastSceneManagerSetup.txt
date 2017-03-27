@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/final_fight.unity
+  isLoaded: 1
+  isActive: 1
